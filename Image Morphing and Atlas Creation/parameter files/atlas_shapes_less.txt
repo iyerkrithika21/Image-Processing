@@ -1,0 +1,25 @@
+04.000000 4.000000
+99.000000 87.000000 102.000000 64.000000 
+77.000000 119.000000 92.000000 124.000000 
+97.000000 86.000000 81.000000 84.000000 
+160.000000 174.000000 145.000000 202.000000 
+ 
+
+ 
+
+
+
+
+// For the number of images specified above 0..N-1, each one
+// has a file name, given by a string
+shape_atlas1.tif
+shape_atlas2.tif
+shape_atlas3.tif
+shape_atlas4.tif
+// These are the filenames for the output.  Could be anything indicated
+// by this string
+//ATLAS_FILE_OUTPUT 
+atlas_out.tif
+// other parameters such as kernel width
+20.0
+
